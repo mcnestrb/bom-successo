@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variable files
+.env
+
+# build files
+build
+
+# data files
+src/_data/bookings.js
